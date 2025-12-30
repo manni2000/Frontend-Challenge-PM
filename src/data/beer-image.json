@@ -1,0 +1,39 @@
+{
+  "images": [
+    "https://images.unsplash.com/photo-1608270586620-248524c67de9?w=400&h=400&fit=crop",
+    "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=400&h=400&fit=crop",
+    "https://images.unsplash.com/photo-1612528443702-f6741f70a049?w=400&h=400&fit=crop",
+    "https://images.unsplash.com/photo-1618885472179-5e474019f2a9?w=400&h=400&fit=crop",
+    "https://images.unsplash.com/photo-1569529465841-dfecdab7503b?w=400&h=400&fit=crop",
+    "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=400&h=400&fit=crop&sat=-50",
+    "https://images.unsplash.com/photo-1608270586620-248524c67de9?w=400&h=400&fit=crop&brightness=10",
+    "https://images.unsplash.com/photo-1677083616911-06d3b1c406b4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzZ8fGJlZXJzfGVufDB8fDB8fHww",
+    "https://images.unsplash.com/photo-1533218065445-9c1478886300?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIxfHxiZWVyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "https://images.unsplash.com/photo-1559019736-dcf2caefe954?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg4fHxiZWVyc3xlbnwwfHwwfHx8MA%3D%3D",
+    "https://images.unsplash.com/photo-1613254025696-6f80f3172937?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTkxfHxiZWVyc3xlbnwwfHwwfHx8MA%3D%3D"
+  ],
+  "descriptions": [
+    "A classic pale ale with a golden amber color and a creamy white head. Features balanced hop bitterness with citrus and floral notes.",
+    "An American IPA bursting with hoppy goodness. Strong grapefruit and pine aromas with a malty backbone to balance the intense bitterness.",
+    "A rich and robust porter with deep dark color. Notes of chocolate, coffee, and caramel with a smooth, velvety mouthfeel.",
+    "A crisp and refreshing pilsner with a brilliant golden hue. Clean, light body with a subtle hop character and a dry finish.",
+    "A Belgian witbier brewed with coriander and orange peel. Cloudy appearance with refreshing citrus and spice notes.",
+    "A bold imperial stout with complex flavors. Dark chocolate, roasted coffee, and dark fruit with a warming alcohol finish.",
+    "A smooth and creamy milk stout with lactose added for sweetness. Notes of vanilla, chocolate, and coffee with a silky texture.",
+    "A hoppy double IPA with intense aroma and flavor. Tropical fruit, citrus, and pine notes with a strong but balanced bitterness.",
+    "A traditional German hefeweizen with banana and clove flavors. Unfiltered and cloudy with a smooth, medium body.",
+    "A seasonal amber ale with rich malt character. Caramel and toffee notes with a subtle hop presence for balance."
+  ],
+  "taglines": [
+    "The Perfect Pour",
+    "Hoppy Excellence",
+    "Dark & Rich",
+    "Crisp & Clean",
+    "Belgian Tradition",
+    "Imperial Strength",
+    "Silky Smooth",
+    "Double the Hops",
+    "German Classic",
+    "Seasonal Favorite"
+  ]
+}
