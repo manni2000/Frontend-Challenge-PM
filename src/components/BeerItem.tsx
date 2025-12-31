@@ -88,11 +88,11 @@ export default function BeerItem({ beer, isFavorite, onToggleFavorite, onClick }
 
         {/* Beer Info */}
         <div className="p-4">
-          <h3 className="text-lg font-bold text-orange-600 mb-1 line-clamp-2">
+          <h3 className="text-lg font-bold text-orange-600 mb-1 line-clamp-2 text-center">
             {beer.name}
           </h3>
-          <p className="text-gray-600 text-sm line-clamp-2">
-            {beer.description || beer.style || 'No description available'}
+          <p className="text-gray-600 text-sm line-clamp-2 text-center">
+            {beer.tagline || beer.style || 'No tagline available'}
           </p>
           
           {/* Additional Info */}
