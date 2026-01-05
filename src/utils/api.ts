@@ -1,7 +1,7 @@
 // Use proxy routes to avoid CORS issues
 const API_BASE_URL = '';
 
-// Import dummy data for images and descriptions
+// Import dummy data for images, tagline and descriptions
 import dummyData from '../data/beer-image.json'
 
 export interface Beer {

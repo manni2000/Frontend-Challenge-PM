@@ -25,7 +25,7 @@ A modern, responsive web application for exploring and discovering beers. Built 
 - **Beer Catalog API** - External beer database integration
 - **Next.js API Routes** - Proxy server for CORS handling
 - **LocalStorage** - Client-side favorites persistence
-- **Dummy Data** - Enhanced beer images and descriptions
+- **Dummy Data** - Enhanced beer images, tagline, and descriptions.
 
 ## Project Structure
 
@@ -85,6 +85,7 @@ src/
 - **Endpoints**: 
   - `/beer` - Get beer list with pagination
   - `/beer/{id}` - Get individual beer details
+  - `/favourites` - Get favorite beers lists
 
 ### API Proxy Routes
 The app uses Next.js API routes to proxy requests and handle CORS:
